@@ -1,5 +1,5 @@
 {
-  "Version": "1.2.0",
+  "Version": "1.3.0",
   "ReleaseNotes": "Atualização JcNetTop",
   "UrlUpdate": "https://raw.githubusercontent.com/castk118/atualiza-o/main/socks",
   "Sms": "https://t.me/jonh118",
@@ -9,19 +9,19 @@
   "CheckUser": "true",
   "Udp": [
     {
-      "Porta": "7100"
-    },
-    {
-      "Porta": "7200"
+      "Porta": "7300"
     },
     {
       "Porta": "7300"
     },
     {
-      "Porta": "7400"
+      "Porta": "7300"
     },
     {
-      "Porta": "7500"
+      "Porta": "7300"
+    },
+    {
+      "Porta": "7300"
     }
   ],
   "Servers": [
