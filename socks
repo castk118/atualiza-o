@@ -1,5 +1,5 @@
 {
-  "Version": "1.3.0",
+  "Version": "1.4.0",
   "ReleaseNotes": "Atualização JcNetTop",
   "UrlUpdate": "https://raw.githubusercontent.com/castk118/atualiza-o/main/socks",
   "Sms": "https://t.me/jonh118",
@@ -71,9 +71,8 @@
     {
       "Name": "CLARO Rapida SEM PROMOÇÃO",
       "FLAG": "claro",
-      "Payload": "GET wss://atendimento.descomplica.com.br HTTP/1.1[crlf]Host: ff.jcnettop.xyz[crlf]Upgrade: covid[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "atendimento.descomplica.com.br",
-      "TlsIP": "no.descomplica.com.br",
+      "Payload": "GET wss://boom4u.com.br/ HTTP/1.1[crlf]Host: ff.jcnettop.xyz[crlf]Upgrade: websocket[crlf][crlf]",
+      "TlsIP": "boom4u.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
