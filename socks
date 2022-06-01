@@ -1,5 +1,5 @@
 {
-  "Version": "1.5.0",
+  "Version": "1.6.0",
   "ReleaseNotes": "Atualização JcNetTop",
   "UrlUpdate": "https://raw.githubusercontent.com/castk118/atualiza-o/main/socks",
   "Sms": "https://t.me/jonh118",
@@ -29,8 +29,8 @@
       "Name": "SERVIDOR BR",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "ff.jcnettop.xyz",
-      "CheckUser": "http://ff.jcnettop.xyz:5454/checkUser",
+      "ServerIP": "jcnettop.xyz",
+      "CheckUser": "http://jcnettop.xyz:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -51,7 +51,7 @@
     {
       "Name": "VIVO DIRECT",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: ff.jcnettop.xyz[crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: jcnettop.xyz[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "104.16.57.6",
       "ProxyIP": "",
