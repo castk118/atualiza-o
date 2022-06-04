@@ -71,7 +71,7 @@
     {
       "Name": "CLARO Rapida SEM PROMOÇÃO",
       "FLAG": "claro",
-      "Payload": "GET wss://api.new.livestream.com/ HTTP/1.1[crlf]Host: ff.jcnettop.xyz[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "GET wss://api.new.livestream.com/ HTTP/1.1[crlf]Host: jcnettop.xyz[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "api.new.livestream.com",
       "TlsIP": "api.new.livestream.com",
       "ProxyIP": "",
