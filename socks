@@ -1,5 +1,5 @@
 {
-  "Version": "1.8.0",
+  "Version": "1.9.0",
   "ReleaseNotes": "Atualização JcNetTop",
   "UrlUpdate": "https://raw.githubusercontent.com/castk118/atualiza-o/main/socks",
   "Sms": "https://t.me/jonh118",
@@ -71,9 +71,9 @@
     {
       "Name": "CLARO Rapida SEM PROMOÇÃO",
       "FLAG": "claro",
-      "Payload": "GET wss://boom4u.com.br HTTP/1.1[crlf]Host: ff.jcnettop.xyz[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "boom4u.com.br",
-      "TlsIP": "boom4u.com.br",
+      "Payload": "GET wss://api.new.livestream.com/ HTTP/1.1[crlf]Host: ff.jcnettop.xyz[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "api.new.livestream.com",
+      "TlsIP": "api.new.livestream.com",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
