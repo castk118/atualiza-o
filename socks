@@ -1,5 +1,5 @@
 {
-  "Version": "1.13.0",
+  "Version": "1.14.0",
   "ReleaseNotes": "Atualização JcNetTop",
   "UrlUpdate": "https://raw.githubusercontent.com/castk118/atualiza-o/main/socks",
   "Sms": "https://t.me/jonh118",
@@ -30,7 +30,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "jcnettop.xyz",
-      "CheckUser": "http://jcnettop.xyz:8989/CheckUser",
+      "CheckUser": "http://20.226.42.54:9090/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
