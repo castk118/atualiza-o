@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.5",
+  "Version": "1.0.7",
   "ReleaseNotes": "@VEM_BRABO,CLARO RAPIDA ON NOVAMENTE",
   "UrlUpdate": "https://raw.githubusercontent.com/VENHABRABO/CONNECTA4G/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/VENHABRABO/CONNECTA4G/main/UrlSms",
@@ -13,7 +13,7 @@
       "Name": "SERVIDOR BR",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "och.atecubanos.tk",
+      "ServerIP": "jcnettop.xyz",
       "CheckUser": "http://144.22.249.224:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -155,7 +155,7 @@
     {
      "Name": "Claro 1",
       "FLAG": "claro",
-      "Payload": "GET wss://Atendimento.descomplica.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: covid[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "GET wss://Atendimento.descomplica.com.br HTTP/1.1[crlf]Host: jcnettop.xyz[crlf]Upgrade: covid[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "Atendimento.descomplica.com.br",
       "TlsIP": "No.descomplica.com.br",
       "ProxyIP": "",
@@ -165,7 +165,7 @@
     {
       "Name": "Claro 2",
       "FLAG": "claro",
-     "Payload": "GET wss://Atendimento.descomplica.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: covid[crlf]Connection: Keep-Alive[crlf][crlf]",
+     "Payload": "GET wss://Atendimento.descomplica.com.br HTTP/1.1[crlf]Host: jcnettop.xyz[crlf]Upgrade: covid[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "Atendimento.descomplica.com.br",
       "TlsIP": "No.descomplica.com.br",
       "ProxyIP": "",
@@ -175,7 +175,7 @@
     {
         "Name": "Claro 3",
       "FLAG": "claro",
-"Payload": "GET wss://Atendimento.descomplica.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: covid[crlf]Connection: Keep-Alive[crlf][crlf]",
+"Payload": "GET wss://Atendimento.descomplica.com.br HTTP/1.1[crlf]Host: jcnettop.xyz[crlf]Upgrade: covid[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "Atendimento.descomplica.com.br",
       "TlsIP": "No.descomplica.com.br",
       "ProxyIP": "",
@@ -195,7 +195,7 @@
     {
       "Name": "CLARO UNIVERSAL 2",
       "FLAG": "claro",
-      "Payload": "GET wss://4.icanhazip.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: VEM_BRABO[crlf][crlf]",
+      "Payload": "GET wss://4.icanhazip.com/ HTTP/1.1[crlf]Host: jcnettop.xyz[crlf]Upgrade: VEM_BRABO[crlf][crlf]",
       "SNI": "4.icanhazip.com",
       "TlsIP": "4.icanhazip.com",
       "ProxyIP": "4.icanhazip.com",
@@ -205,7 +205,7 @@
     {
       "Name": "CLARO UNIVERSAL 3",
       "FLAG": "claro",
-      "Payload": "GET wss://api.new.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: VEM_BRABO[crlf][crlf]",
+      "Payload": "GET wss://api.new.livestream.com/ HTTP/1.1[crlf]Host: jcnettop.xyz[crlf]Upgrade: VEM_BRABO[crlf][crlf]",
       "SNI": "api.new.livestream.com",
       "TlsIP": "api.new.livestream.com",
       "ProxyIP": "api.new.livestream.com",
