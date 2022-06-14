@@ -1,13 +1,13 @@
 {
   "Version": "1.0.7",
-  "ReleaseNotes": "@VEM_BRABO,CLARO RAPIDA ON NOVAMENTE",
+  "ReleaseNotes": "Jcnet atualização",
   "UrlUpdate": "https://raw.githubusercontent.com/VENHABRABO/CONNECTA4G/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/VENHABRABO/CONNECTA4G/main/UrlSms",
-  "EmailFeedback": "ultranetvpn@gmail.com",
-  "UrlContato": "https://t.me/VEM_BRABO",
+  "EmailFeedback": "lorenzo.rorizrossi@gmail.com",
+  "UrlContato": "https://t.me/jonh118",
   "UrlTermos": "https://raw.githubusercontent.com/VENHABRABO/CONNECTA4G/main/TERMOS%20DE%20USO.html",
   "CheckUser": "true",
-  "UdpPort": "7100;7200;7300;7400;7500;7600;7700",
+  "UdpPort": "7300",
   "Servers": [
     {
       "Name": "SERVIDOR BR",
