@@ -1,5 +1,5 @@
 {
-  "Version": "1.4.12",
+  "Version": "1.4.13",
   "ReleaseNotes": "Jcnet atualização",
   "UrlUpdate": "https://raw.githubusercontent.com/castk118/atualiza-o/main/aranhatec",
   "Sms": "https://raw.githubusercontent.com/VENHABRABO/CONNECTA4G/main/UrlSms",
@@ -42,7 +42,17 @@
       "ProxyPort": "80",
       "Info": "Proxy"
     },
-    {
+    
+      "Name": "🟣VIVO [01]",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: jcnetlink.store[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "vigia.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+{
         "Name": "Vivo 2",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1\nHost: jcnetlink.store\nUpgrade: ws\n\n",
