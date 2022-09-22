@@ -331,16 +331,4 @@
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
-   },
-{    
-      "Name": "Oi 3",
-      "FLAG": "oi",
-      "Payload": "GET wss://www.hbogo.com.br HTTP/1.1[crlf]Host: jcnetlink.store[crlf]",
-      "SNI": "www.hbogo.com.br",
-      "TlsIP": "www.hbogo.com.br",
-      "ProxyIP": "",
-      "ProxyPort": "",
-      "Info": "Tlsws"
-    }
-  ]
-}
+   }
