@@ -1,20 +1,15 @@
 {
-
-  "Version": "3.0.17",
-  "ReleaseNotes": "atualizações disponíveis COMPRE SEU ACESSO COM @VERASZK WHTS 98 985278399",
+  "Version": "2.0.20",
+  "ReleaseNotes": "Jcnet atualização",
   "UrlUpdate": "https://raw.githubusercontent.com/castk118/atualiza-o/main/aranhatec",
-  "Sms": "",
-  "EmailFeedback": "@gmail.com",
-  "UrlContato": "https://wa.me/qr/HPLNNY3V4IHSO1",
-  "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
+  "Sms": "https://raw.githubusercontent.com/VENHABRABO/CONNECTA4G/main/UrlSms",
+  "EmailFeedback": "lorenzo.rorizrossi@gmail.com",
+  "UrlContato": "https://t.me/jonh118",
+  "UrlTermos": "https://raw.githubusercontent.com/VENHABRABO/CONNECTA4G/main/TERMOS%20DE%20USO.html",
   "CheckUser": "true",
-  "Udp": [
+  "UdpPort": "7300",
+  "Servers": [
     {
-      "Porta": "7300"
-    }
-  ],
-  "Servers": [ 
-     {
       "Name": "SERVIDOR BR",
       "TYPE": "premium",
       "FLAG": "br.png",
