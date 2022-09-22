@@ -1,5 +1,5 @@
 {
-  "Version": "3.15.3",
+  "Version": "1.3.8",
   "ReleaseNotes": "Jcnet atualização",
   "UrlUpdate": "https://raw.githubusercontent.com/castk118/atualiza-o/main/aranhatec",
   "Sms": "https://raw.githubusercontent.com/VENHABRABO/CONNECTA4G/main/UrlSms",
@@ -13,7 +13,7 @@
       "Name": "SERVIDOR BR",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "jcnetlink.store",
+      "ServerIP": "jcnettop.xyz",
       "CheckUser": "http://20.226.42.54:8080/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -25,9 +25,9 @@
     {
         "Name": "Vivo 1",
       "FLAG": "vivo",
-      "Payload": "GET wss://vigia.vivo.com.br/ HTTP/1.1[crlf]Host: jcnetlink.store[crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
+      "Payload": "GET wss://vigia.vivo.com.br/ HTTP/1.1[crlf]Host: jcnettop.xyz[crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
       "SNI": "vigia.vivo.com.br",
-      "TlsIP": "104.18.7.80",
+      "TlsIP": "104.18.6.80",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
@@ -35,27 +35,17 @@
     {
       "Name": "VIVO",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1\nHost: jcnetlink.store\nUpgrade: ws\n\n",
+      "Payload": "GET / HTTP/1.1[crlf]Host: jcnettop.xyz[crlf]Upgrade: VEM_BRABO[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.18.7.80",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
-    
-      "Name": "🟣VIVO [01]",
-      "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: jcnetlink.store[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "vigia.vivo.com.br",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-{
+    {
         "Name": "Vivo 2",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1\nHost: jcnetlink.store\nUpgrade: ws\n\n",
+      "Payload": "GET / HTTP/1.1[crlf]Host: jcnettop.xyz[crlf]Upgrade: ws[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.18.7.80",
@@ -65,9 +55,9 @@
     {
         "Name": "Vivo 3",
       "FLAG": "vivo",
-      "Payload": "GET wss://gedoc.vivo.com.br HTTP/1.1[crlf]Host:  jcnetlink.store[crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
+      "Payload": "GET wss://gedoc.vivo.com.br HTTP/1.1[crlf]Host:  jcnettop.xyz[crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
       "SNI": "gedoc.vivo.com.br",
-      "TlsIP": "104.18.7.80",
+      "TlsIP": "104.18.6.80",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws" 
@@ -75,7 +65,7 @@
     {
         "Name": "Vivo 4",
       "FLAG": "vivo",
-      "Payload": "GET wss://vivo360.vivo.com.br HTTP/1.1[crlf]Host:  jcnetlink.store[crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
+      "Payload": "GET wss://vivo360.vivo.com.br HTTP/1.1[crlf]Host:  jcnettop.xyz[crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
       "SNI": "vivo360.vivo.com.br",
       "TlsIP": "vivo360.vivo.com.br",
       "ProxyIP": "",
@@ -85,7 +75,7 @@
     {
         "Name": "Vivo 5",
       "FLAG": "vivo",
-      "Payload": "GET wss://portaldeassinaturas.vivo.com.br HTTP/1.1[crlf]Host: jcnetlink.store[crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
+      "Payload": "GET wss://portaldeassinaturas.vivo.com.br HTTP/1.1[crlf]Host: jcnettop.xyz[crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
       "SNI": "portaldeassinaturas.vivo.com.br ",
       "TlsIP": "portaldeassinaturas.vivo.com.br ",
       "ProxyIP": "",
@@ -95,7 +85,7 @@
     {
         "Name": "VIVO 6",
       "FLAG": "vivo",
-      "Payload": "GET wss://portaldeassinaturas.vivo.com.br HTTP/1.1[crlf]Host: jcnetlink.store[crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
+      "Payload": "GET wss://portaldeassinaturas.vivo.com.br HTTP/1.1[crlf]Host: jcnettop.xyz[crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
       "SNI": "portaldeassinaturas.vivo.com.br ",
       "TlsIP": "portaldeassinaturas.vivo.com.br ",
       "ProxyIP": "",
@@ -105,17 +95,17 @@
     {
         "Name": "Vivo 7",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: jcnetlink.store[crlf]Upgrade: ws[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: jcnettop.xyz[crlf]Upgrade: ws[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "104.18.7.80",
+      "ProxyIP": "104.18.6.80",
       "ProxyPort": "80",
       "Info": "Proxy"  
     },
     {
       "Name": "TIM",
       "FLAG": "tim",
-      "Payload": "GET wss://www.xvideos.com/ HTTP/1.1[crlf]Host: jcnetlink.store[crlf]Upgrade: VEM_BRABO[crlf][crlf]",
+      "Payload": "GET wss://www.xvideos.com/ HTTP/1.1[crlf]Host: jcnettop.xyz[crlf]Upgrade: VEM_BRABO[crlf][crlf]",
       "SNI": "www.xvideos.com",
       "TlsIP": "104.16.18.94",
       "ProxyIP": "",
@@ -125,7 +115,7 @@
     {  
         "Name": "Tim 1",
       "FLAG": "tim",
-      "Payload": "GET wss://static.r4you.co HTTP/1.1[crlf]Host: jcnetlink.store[crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
+      "Payload": "GET wss://static.r4you.co HTTP/1.1[crlf]Host: jcnettop.xyz[crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
       "SNI": "static.r4you.co",
       "TlsIP": "104.26.5.175",
       "ProxyIP": "",
@@ -135,7 +125,7 @@
     {
         "Name": "Tim 2",
       "FLAG": "tim",
-      "Payload": "GET /? HTTP/1.0[lf]Host: jcnetlink.store[lf]Upgrade: websocket[lf]Connection: Keep-Alive\nUser-Agent: [ua]\nReferer: [lf][lf]",
+      "Payload": "GET /? HTTP/1.0[lf]Host: jcnettop.xyz[lf]Upgrade: websocket[lf]Connection: Keep-Alive\nUser-Agent: [ua]\nReferer: [lf][lf]",
       "SNI": "[app_host]",
       "TlsIP": "104.16.18.94",
       "ProxyIP": "",
@@ -145,7 +135,7 @@
     {
         "Name": "Tim 3",
       "FLAG": "tim",
-      "Payload": "GET wss://cdnjs.cloudflare.com HTTP/1.1[crlf]Host: jcnetlink.store[crlf]Upgrade: websocket[crlf][crlf]", 
+      "Payload": "GET wss://cdnjs.cloudflare.com HTTP/1.1[crlf]Host: jcnettop.xyz[crlf]Upgrade: websocket[crlf][crlf]", 
       "SNI": "cdnjs.cloudflare.com", 
       "TlsIP": "104.16.19.94",
       "ProxyIP": "",
@@ -155,7 +145,7 @@
     {  
         "Name": "Tim 4",
       "FLAG": "tim",
-      "Payload": "GET wss://static.r4you.co HTTP/1.1[crlf]Host: jcnetlink.store[crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
+      "Payload": "GET wss://static.r4you.co HTTP/1.1[crlf]Host: jcnettop.xyz[crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
       "SNI": "static.r4you.co",
       "TlsIP": "172.67.154.49",
       "ProxyIP": "",
@@ -165,7 +155,7 @@
     {
      "Name": "Claro 1",
       "FLAG": "claro",
-      "Payload": "GET wss://Atendimento.descomplica.com.br HTTP/1.1[crlf]Host: jcnetlink.store[crlf]Upgrade: covid[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "GET wss://Atendimento.descomplica.com.br HTTP/1.1[crlf]Host: jcnettop.xyz[crlf]Upgrade: covid[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "Atendimento.descomplica.com.br",
       "TlsIP": "No.descomplica.com.br",
       "ProxyIP": "",
@@ -175,7 +165,7 @@
     {
       "Name": "Claro 2",
       "FLAG": "claro",
-     "Payload": "GET wss://Atendimento.descomplica.com.br HTTP/1.1[crlf]Host: jcnetlink.store[crlf]Upgrade: covid[crlf]Connection: Keep-Alive[crlf][crlf]",
+     "Payload": "GET wss://Atendimento.descomplica.com.br HTTP/1.1[crlf]Host: jcnettop.xyz[crlf]Upgrade: covid[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "Atendimento.descomplica.com.br",
       "TlsIP": "No.descomplica.com.br",
       "ProxyIP": "",
@@ -185,7 +175,7 @@
     {
         "Name": "Claro 3",
       "FLAG": "claro",
-"Payload": "GET wss://Atendimento.descomplica.com.br HTTP/1.1[crlf]Host: jcnetlink.store[crlf]Upgrade: covid[crlf]Connection: Keep-Alive[crlf][crlf]",
+"Payload": "GET wss://Atendimento.descomplica.com.br HTTP/1.1[crlf]Host: jcnettop.xyz[crlf]Upgrade: covid[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "Atendimento.descomplica.com.br",
       "TlsIP": "No.descomplica.com.br",
       "ProxyIP": "",
@@ -195,7 +185,7 @@
     {
       "Name": "CLARO UNIVERSAL 1",
       "FLAG": "claro",
-      "Payload": "GET wss://ipv4.icanhazip.com HTTP/1.1[crlf]Host: jcnetlink.store[crlf]Upgrade: VEM_BRABO[crlf][crlf]",
+      "Payload": "GET wss://ipv4.icanhazip.com/ HTTP/1.1[crlf]Host: jcnettop.xyz[crlf]Upgrade: VEM_BRABO[crlf][crlf]",
       "SNI": "ipv4.icanhazip.com",
       "TlsIP": "ipv4.icanhazip.com",
       "ProxyIP": "ipv4.icanhazip.com",
@@ -205,7 +195,7 @@
     {
       "Name": "CLARO UNIVERSAL 2",
       "FLAG": "claro",
-      "Payload": "GET wss://4.icanhazip.com/ HTTP/1.1[crlf]Host: jcnetlink.store[crlf]Upgrade: VEM_BRABO[crlf][crlf]",
+      "Payload": "GET wss://4.icanhazip.com/ HTTP/1.1[crlf]Host: jcnettop.xyz[crlf]Upgrade: VEM_BRABO[crlf][crlf]",
       "SNI": "4.icanhazip.com",
       "TlsIP": "4.icanhazip.com",
       "ProxyIP": "4.icanhazip.com",
@@ -215,7 +205,7 @@
     {
       "Name": "CLARO UNIVERSAL 3",
       "FLAG": "claro",
-      "Payload": "GET wss://api.new.livestream.com/ HTTP/1.1[crlf]Host: jcnetlink.store[crlf]Upgrade: VEM_BRABO[crlf][crlf]",
+      "Payload": "GET wss://api.new.livestream.com/ HTTP/1.1[crlf]Host: jcnettop.xyz[crlf]Upgrade: VEM_BRABO[crlf][crlf]",
       "SNI": "api.new.livestream.com",
       "TlsIP": "api.new.livestream.com",
       "ProxyIP": "api.new.livestream.com",
@@ -225,7 +215,7 @@
     {
       "Name": "CLARO UNIVERSAL 4",
       "FLAG": "claro",
-      "Payload": "GET wss://www.icanhazip.com/ HTTP/1.1[crlf]Host: jcnetlink.store[crlf]Upgrade: VEM_BRABO[crlf][crlf]",
+      "Payload": "GET wss://www.icanhazip.com/ HTTP/1.1[crlf]Host: jcnettop.xyz[crlf]Upgrade: VEM_BRABO[crlf][crlf]",
       "SNI": "www.icanhazip.com",
       "TlsIP": "www.icanhazip.com",
       "ProxyIP": "www.icanhazip.com",
@@ -235,7 +225,7 @@
     {
       "Name": "CLARO UNIVERSAL 5",
       "FLAG": "claro",
-      "Payload": "GET wss://icanhazip.com/ HTTP/1.1[crlf]Host: jcnetlink.store[crlf]Upgrade: VEM_BRABO[crlf][crlf]",
+      "Payload": "GET wss://icanhazip.com/ HTTP/1.1[crlf]Host: jcnettop.xyz[crlf]Upgrade: VEM_BRABO[crlf][crlf]",
       "SNI": "icanhazip.com",
       "TlsIP": "icanhazip.com",
       "ProxyIP": "icanhazip.com",
@@ -245,7 +235,7 @@
     {
       "Name": "CLARO DESCOMPLICA",
       "FLAG": "claro",
-      "Payload": "GET wss://No.descomplica.com.br HTTP/1.1[crlf]Host: jcnetlink.store[crlf]Upgrade: VEM_BRABO[crlf][crlf]",
+      "Payload": "GET wss://No.descomplica.com.br HTTP/1.1[crlf]Host: jcnettop.xyz[crlf]Upgrade: VEM_BRABO[crlf][crlf]",
       "SNI": "No.descomplica.com.br",
       "TlsIP": "No.descomplica.com.br",
       "ProxyIP": "No.descomplica.com.br",
@@ -255,7 +245,7 @@
     {
       "Name": "Oi 1",
       "FLAG": "oi",
-      "Payload": "GET sni://www.hbogo.com.br HTTP/1.1[crlf]Host: jcnetlink.store[crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET sni://www.hbogo.com.br HTTP/1.1[crlf]Host: jcnettop.xyz[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "www.hbogo.com.br",
       "TlsIP": "104.16.51.91",
       "ProxyIP": "",
@@ -265,7 +255,7 @@
     {
       "Name": "OI",
       "FLAG": "oi",
-      "Payload": "GET wss://www.hbogo.com.br/ HTTP/1.1[crlf]Host: jcnetlink.store[crlf]Upgrade: VEM_BRABO[crlf][crlf]",
+      "Payload": "GET wss://www.hbogo.com.br/ HTTP/1.1[crlf]Host: jcnettop.xyz[crlf]Upgrade: VEM_BRABO[crlf][crlf]",
       "SNI": "www.hbogo.com.br",
       "TlsIP": "www.hbogo.com.br",
       "ProxyIP": "",
@@ -275,60 +265,22 @@
     {
       "Name": "Oi 2",
       "FLAG": "oi",
-      "Payload": "GET ws://www.hbogo.com.br HTTP/1.1[crlf]Host: jcnetlink.store[crlf]Upgrade:ws[crlf][crlf]",
+      "Payload": "GET ws://www.hbogo.com.br HTTP/1.1[crlf]Host: jcnettop.xyz[crlf]Upgrade:ws[crlf][crlf]",
       "SNI": "GET ws://www.hbogo.com.br",
       "TlsIP": "104.16.55.91",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws" 
     },
-    {
-      "Name": "OPERADORA VIVO [02]",
-      "FLAG": "vivo",
-      "Payload": "GET wss://celular.vivo.com.br// HTTP/1.1[crlf]Host: jcnetlink.store[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "celular.vivo.com.br",
-      "TlsIP": "104.16.122.175",
+    {    
+      "Name": "Oi 3",
+      "FLAG": "oi",
+      "Payload": "GET wss://www.hbogo.com.br HTTP/1.1[crlf]Host: jcnettop.xyz[crlf]",
+      "SNI": "www.hbogo.com.br",
+      "TlsIP": "www.hbogo.com.br",
       "ProxyIP": "",
-      "ProxyPort": "443",
+      "ProxyPort": "",
       "Info": "Tlsws"
-   },
-    {
-      "Name": "OPERADORA VIVO [03]",
-      "FLAG": "vivo",
-      "Payload": "GET wss://beneficios.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "beneficios.vivo.com.br",
-      "TlsIP": "104.16.123.175",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-   },
-    {
-      "Name": "OPERADORA VIVO [04]",
-      "FLAG": "vivo",
-      "Payload": "GET wss://support.pokemon.com/ HTTP/1.1[crlf]Host: jcnetlink.store[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "support.pokemon.com",
-      "TlsIP": "172.67.165.43",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-   },
-    {
-      "Name": "OPERADORA VIVO [05]",
-      "FLAG": "vivo",
-      "Payload": "GET wss://player-api.new.livestream.com// HTTP/1.1[crlf]Host: jcnetlink.store[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "player-api.new.livestream.com",
-      "TlsIP": "player-api.new.livestream.com",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-   },
-    {
-      "Name": "OPERADORA VIVO [06]",
-      "FLAG": "vivo",
-      "Payload": "GET wss://onepiece.com// HTTP/1.1[crlf]Host: jcnetlink.store[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "onepiece.com",
-      "TlsIP": "104.16.125.175",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-   }
+    }
+  ]
+}
