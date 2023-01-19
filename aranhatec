@@ -1,13 +1,13 @@
 {
-    "Versão": "106",
+    "Version": "110",
     "ReleaseNotes": "ATUALIZAÃ‡ÃƒO",
     "Sms": "https://zhxhost.xyz/update/zhxteam/sms",
     "UrlUpdate": "https://raw.githubusercontent.com/castk118/atualiza-o/main/aranhatec",
     "EmailFeedback": "nadasre35@gmail.com",
     "UrlContato": "https://wa.me/5512981612083",
     "UrlTermos": "nada",
-    "CheckUser": "verdadeiro",
-    "UDP": [
+    "CheckUser": "true",
+    "Udp": [
         {
             "Porta": "7300"
         },
@@ -35,79 +35,79 @@
             "Porta": "7300"
         }
     ],
-    "Servidores": [
+    "Servers": [
         {
-            "Nome": "ZHX PLUS",
-            "TIPO": "premium",
-            "BANDEIRA": "br.png",
-            "IP do servidor": "150.230.85.238",
+            "Name": "ZHX PLUS",
+            "TYPE": "premium",
+            "FLAG": "br.png",
+            "ServerIP": "150.230.85.238",
             "CheckUser": "http://45.235.6.38:5000/checkUser",
             "ServerPort": "22",
             "SSLPort": "443",
-            "DO UTILIZADOR": "",
-            "PASSAR": ""
+            "USER": "",
+            "PASS": ""
         }
     ],
-    "Redes": [
+    "Networks": [
         {
-            "Nome": "VIVO 01",
-            "BANDEIRA": "vivo",
+            "Name": "VIVO 01",
+            "FLAG": "vivo",
             "Payload": "GET / HTTP/1.1[crlf]Host: d8wnyf7qa22m6.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-            "SN": "",
+            "SNI": "",
             "TlsIP": "",
             "ProxyIP": "52.85.213.82",
             "ProxyPort": "80",
-            "Informações": "Proxy"
+            "Info": "Proxy"
         },
         {
-            "Nome": "VIVO 02",
-            "BANDEIRA": "vivo",
+            "Name": "VIVO 02",
+            "FLAG": "vivo",
             "Payload": "GET / HTTP/1.1[crlf]Host: d8wnyf7qa22m6.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-            "SN": "",
+            "SNI": "",
             "TlsIP": "",
             "ProxyIP": "104.16.53.111",
             "ProxyPort": "80",
-            "Informações": "Proxy"
+            "Info": "Proxy"
         },
         {
-            "Nome": "VIVO [SSL 01]",
-            "BANDEIRA": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: jcnetlink.store[crlf]Atualização: Websocket[crlf]Conexão: Atualização[crlf][crlf]",
-            "SNI": "lmsk.store",
+            "Name": "VIVO [SSL 01]",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host: jcnetlink.store[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+            "SNI": "jcnetlink.store",
             "TlsIP": "atendimento.descomplica.com.br",
-            "IP de Proxy": "",
+            "ProxyIP": "",
             "ProxyPort": "443",
-            "Informações": "Tlsws"
+            "Info": "Tlsws"
         },
         {
-            "Nome": "VIVO [SSL 02]",
-            "BANDEIRA": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: jcnetlink.store[crlf]Conexão: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "lmsk.store",
+            "Name": "VIVO [SSL 02]",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host: jcnetlink.store[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "jcnetlink.store",
             "TlsIP": "104.16.51.111",
-            "IP de Proxy": "",
+            "ProxyIP": "",
             "ProxyPort": "443",
-            "Informações": "Tlsws"
+            "Info": "Tlsws"
         },
         {
-            "Nome": "VIVO [DIRETO]",
-            "BANDEIRA": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: jcnetlink.store[crlf]Conexão: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-            "SN": "",
+            "Name": "VIVO [DIRECT]",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host: jcnetlink.store[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
             "TlsIP": "",
             "ProxyIP": "104.16.51.111",
             "ProxyPort": "80",
-            "Informações": "Proxy"
+            "Info": "Proxy"
         },
         {
-            "Nome": "TIM SPEED PLUS",
-            "BANDEIRA": "tim",
-            "Payload": "GET / HTTP/1.1\nHost: api.sandbox.c6bank.com.br\nExpect: 100-continue\n\n[split]\n\nACL /?/ HTTP/1.1\nHost: jcnetlink.store\nEspere: 100-continue\nUpgrade: websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n",
-            "SN": "",
+            "Name": "TIM SPEED PLUS",
+            "FLAG": "tim",
+            "Payload": "GET / HTTP/1.1\nHost: api.sandbox.c6bank.com.br\nExpect: 100-continue\n\n[split]\n\nACL /?/ HTTP/1.1\nHost: jcnetlink.store\nExpect: 100-continue\nUpgrade: websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n",
+            "SNI": "",
             "TlsIP": "",
-            "IP de Proxy": "",
+            "ProxyIP": "",
             "ProxyPort": "80",
-            "Informações": "Direct"
+            "Info": "Direct"
         }
     ]
 }
