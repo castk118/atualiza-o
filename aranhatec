@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.1",
+  "Version": "1.0.1",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/castk118/atualiza-o/main/aranhatec",
   "Sms": "",
@@ -39,7 +39,7 @@
         "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
         "SNI": "",
         "TlsIP": "",
-        "ProxyIP": "104.16.53.111",
+        "ProxyIP": "104.18.7.41",
         "ProxyPort": "80",
         "Info": "Proxy"
      },
@@ -49,7 +49,7 @@
         "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
         "SNI": "",
         "TlsIP": "",
-        "ProxyIP": "104.18.7.41",
+        "ProxyIP": "104.18.6.80",
         "ProxyPort": "80",
         "Info": "Proxy"
      },
@@ -59,7 +59,7 @@
         "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
         "SNI": "",
         "TlsIP": "",
-        "ProxyIP": "104.16.122.175",
+        "ProxyIP": "172.64.144.109",
         "ProxyPort": "80",
         "Info": "Proxy"
      },
