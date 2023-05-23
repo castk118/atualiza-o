@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.23",
+  "Version": "1.0.24",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/castk118/atualiza-o/main/aranhatec",
   "Sms": "",
@@ -43,6 +43,26 @@
         "ProxyPort": "80",
         "Info": "Proxy"
      },
+     {
+            "Name": "🟣 VIVO Direct [01]",
+            "FLAG": "vivo.png",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.16.53.111",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "🟣 VIVO Random [01]",
+            "FLAG": "vivo",
+            "Payload": "BASELINE-CONTROL ws://[random=[app_host];[app_host]] HTTP/1.1[crlf]Host: assine.vivo.com.br[crlf]Proxy-Connection: Keep-Alive[crlf]Connection: upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "104.16.53.111",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
      {
 "Name": "VIVO EASY [01]",
 "FLAG": "vivo",
