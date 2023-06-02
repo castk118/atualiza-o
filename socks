@@ -31,7 +31,7 @@
     "Networks":[
         {
             "Name":"VIVO LIGHT 1 ⚡",
-            "Servidor":":7200;7300;7100;7400",
+            "Servidor":":7300;7300;7300;7300",
             "SPort":"",
             "Prox":"104.16.53.111:80",
             "Payload":"GET / HTTP/1.1[crlf]Host: jcnetlink.store[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
