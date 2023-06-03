@@ -30,7 +30,7 @@
     "Hostpp":"nao",
     "Networks":[
         {
-            "Name":"VIVO LIGHT 1 ⚡",
+            "Name":"VIVO easy 1 ⚡",
             "Servidor":":7300;7300;7300;7300",
             "SPort":"",
             "Prox":"104.16.53.111:80",
@@ -68,5 +68,5 @@
             "CustomSquid":""
         }
     ],
-    "ConfigVersion":479
+    "ConfigVersion":480
 }
