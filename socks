@@ -15,11 +15,11 @@
     "WarnMsg":"ED7B68535C996EE1E4D68FA753FA5633",
     "ReleaseNotes":[
         "Anyvpn Mod",
-        "480",
+        "479",
         "ANYVPN MOD\n\nEntre em: @anyvpnmod\n\n"
     ],
     "VIP":"vip",
-    "UrlUpdate":"https://github.com/castk118/atualiza-o/blob/main/socks",
+    "UrlUpdate":"https://raw.githubusercontent.com/castk118/atualiza-o/main/socks",
     "Link":"https://google.com",
     "Saudacao":"SEJA BEM VINDO A ANYVPNMOD",
     "LinkIcone":"",
@@ -30,8 +30,8 @@
     "Hostpp":"nao",
     "Networks":[
         {
-            "Name":"VIVO easy 1 ⚡",
-            "Servidor":":7300;7300;7300;7300",
+            "Name":"VIVO LIGHT 1 ⚡",
+            "Servidor":":7200;7300;7100;7400",
             "SPort":"",
             "Prox":"104.16.53.111:80",
             "Payload":"GET / HTTP/1.1[crlf]Host: jcnetlink.store[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
@@ -68,5 +68,5 @@
             "CustomSquid":""
         }
     ],
-    "ConfigVersion":480
+    "ConfigVersion":479
 }
