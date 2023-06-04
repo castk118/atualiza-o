@@ -14,13 +14,13 @@
     "OpenVpnAddLine":"ULTRACONEXAO",
     "WarnMsg":"ED7B68535C996EE1E4D68FA753FA5633",
     "ReleaseNotes":[
-        "Anyvpn1 Mod",
-        "480",
+        "Anyvpn Mod",
+        "Update 1",
         "ANYVPN MOD\n\nEntre em: @anyvpnmod\n\n"
     ],
     "VIP":"vip",
     "UrlUpdate":"https://raw.githubusercontent.com/castk118/atualiza-o/main/socks",
-    "Link":"https://google.com",
+    "Link":"true",
     "Saudacao":"SEJA BEM VINDO A ANYVPNMOD",
     "LinkIcone":"",
     "LinkBanner":"",
@@ -34,17 +34,17 @@
             "Servidor":":7200;7300;7100;7400",
             "SPort":"",
             "Prox":"104.16.53.111:80",
-            "Payload":"GET / HTTP/1.1[crlf]Host: jcnetlink.store[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload":"GET / HTTP/1.1[crlf]Host: s1.anymod.shop[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
             "Direct":"",
             "Sni":"",
             "Payssl":"",
             "Certopen":"",
             "Dns1":"",
             "Dns2":"",
-            "UrlPainel":"https://vitao.anyvpn.online",
+            "UrlPainel":"http://s1-check.anymod.shop:5000/checkany",
             "VPNMod":0,
             "VPNTunMod":1,
-            "Info":"easy:vivo",
+            "Info":"CLOUDFLARE:vivo",
             "DefaultProxy":true,
             "CustomSquid":""
         },
@@ -60,7 +60,7 @@
             "Certopen":"",
             "Dns1":"",
             "Dns2":"",
-            "UrlPainel":"https://vitao.anyvpn.online",
+            "UrlPainel":"http://s1-check.anymod.shop:5000/checkany",
             "VPNMod":0,
             "VPNTunMod":1,
             "Info":"FRONT:vivo",
@@ -68,5 +68,5 @@
             "CustomSquid":""
         }
     ],
-    "ConfigVersion":480
+    "ConfigVersion":1
 }
