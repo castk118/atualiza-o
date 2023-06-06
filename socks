@@ -52,7 +52,7 @@
             "Prox":"104.18.23.26:80",
             "Payload":"GET / HTTP/1.1[crlf]Host:[rotate=Google.com;facebook.com; jcnetlink.store;Instagram.com][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
             "Direct":"",
-            "Sni":"",
+            "Sni":"jcnetlink.store",
             "Payssl":"",
             "Certopen":"",
             "Dns1":"",
