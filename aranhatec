@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.26",
+  "Version": "1.0.27",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/castk118/atualiza-o/main/aranhatec",
   "Sms": "",
@@ -382,8 +382,6 @@
 "ProxyIP": "104.16.51.111", 
 "ProxyPort": "80", 
 "Info": "Proxy" 
- }
-  ]
 },
 {
 "Name": "VIVO EASY NOVA [01]",
@@ -395,7 +393,6 @@
 "ProxyPort": "80",
 "Info": "Proxy"
 },
-        
 { 
 "Name": "VIVO EASY NOVA [02]",
 "FLAG": "vivo",
