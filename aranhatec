@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.30",
+  "Version": "1.0.31",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/castk118/atualiza-o/main/aranhatec",
   "Sms": "",
@@ -50,6 +50,16 @@
 "SNI": "",
 "TlsIP": "",
 "ProxyIP": "104.18.7.41",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
+{
+"Name": "VIVO SECURITY [02]",
+"FLAG": "vivo",
+"Payload": "ACL HTTP/1.1 Host: plus.google.com \r\n \r\n",
+"SNI": "[app_host]",
+"TlsIP": "[app_host]",
+"ProxyIP": "[app_host]",
 "ProxyPort": "80",
 "Info": "Proxy"
 },
