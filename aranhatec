@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.52",
+  "Version": "1.0.53",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/castk118/atualiza-o/main/aranhatec",
   "Sms": "",
@@ -13,7 +13,7 @@
       "Name": "Servidor BR",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "https://150.230.85.238",
+      "ServerIP": "150.230.85.238",
       "CheckUser": "http://200.98.144.83:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -24,7 +24,7 @@
       "Name": "SERVIDOR 2 APENAS TIM",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "https://150.230.85.238",
+      "ServerIP": "150.230.85.238",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -96,12 +96,32 @@
 {
 "Name": "📱 CLARO PREZÃO 📡❤️",
 "FLAG": "claro",
-"Payload": "POST HTTP/1.1[crlf]Host:www.waze.com[crlf][crlf]",
+"Payload": "",
 "SNI": "m.waze.com",
 "TlsIP": "",
 "ProxyIP": "",
 "ProxyPort": "",
 "Info": "Ssl"
 },
+{
+   "Name": "CLARO BURGUÊS BR ARM [02]",
+   "FLAG": "claro",
+   "Payload": "",
+   "SNI": "m.twitter.com",
+   "TlsIP": "",
+   "ProxyIP": "",
+   "ProxyPort": "443",
+   "Info": "Ssl"
+  },
+  {
+   "Name": "CLARO BURGUÊS CA OCH [02]",
+   "FLAG": "claro",
+   "Payload": "",
+   "SNI": "m.twitter.com",
+   "TlsIP": "",
+   "ProxyIP": "",
+   "ProxyPort": "443",
+   "Info": "Ssl"
+  },
 ]
 }
