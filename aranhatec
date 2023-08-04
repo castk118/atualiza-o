@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.51",
+  "Version": "1.0.52",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/castk118/atualiza-o/main/aranhatec",
   "Sms": "",
@@ -96,7 +96,7 @@
 {
 "Name": "📱 CLARO PREZÃO 📡❤️",
 "FLAG": "claro",
-"Payload": "",
+"Payload": "POST HTTP/1.1[crlf]Host:www.waze.com[crlf][crlf]",
 "SNI": "m.waze.com",
 "TlsIP": "",
 "ProxyIP": "",
