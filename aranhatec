@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Servidor BR",
+      "Name": "claro",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "150.230.85.238",
@@ -21,10 +21,10 @@
       "PASS": ""
     },
     {
-      "Name": "SERVIDOR 2 APENAS TIM",
+      "Name": "vivo",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "150.230.85.238",
+      "ServerIP": "jcnetlink.cloud",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
