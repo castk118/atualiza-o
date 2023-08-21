@@ -1,7 +1,7 @@
 {
-  "Version": "1.0.55",
+  "Version": "1.0.56",
   "ReleaseNotes": "Nova Atualização Disponível!",
-  "UrlUpdate": "https://raw.githubusercontent.com/castk118/atualiza-o/main/aranhatec",
+  "UrlUpdate": "https:///castk118/atualiza-o/main/aranhatec",
   "Sms": "",
   "EmailFeedback": "",
   "UrlContato": "https://t.me/nuvemdepudim",
@@ -114,7 +114,7 @@
    "Info": "Ssl"
   },
   {
-   "Name": "CLARO BURGUÊS CA OCH [02]",
+   "Name": "CLARO BURGUÊS CA OCH [03]",
    "FLAG": "claro",
    "Payload": "",
    "SNI": "m.twitter.com",
