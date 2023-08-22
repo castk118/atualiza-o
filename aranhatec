@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.56",
+  "Version": "1.0.57",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https:///castk118/atualiza-o/main/aranhatec",
   "Sms": "",
@@ -24,7 +24,7 @@
       "Name": "vivo",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "jcnetlink.cloud",
+      "ServerIP": "jcnetlink.site",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -66,7 +66,7 @@
         {
 "Name": "VIVO EASY [02]",
 "FLAG": "vivo",
-"Payload": "GET / HTTP/1.1[crlf]Host: jcnetlink.cloud[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+"Payload": "GET / HTTP/1.1[crlf]Host: jcnetlink.site[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
 "ProxyIP": "104.18.7.80",
