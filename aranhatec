@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.61",
+  "Version": "1.0.62",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/castk118/atualiza-o/main/aranhatec",
   "Sms": "",
@@ -70,7 +70,7 @@
 "SNI": "",
 "TlsIP": "",
 "ProxyIP": "104.18.7.80",
-"ProxyPort": "80",
+"ProxyPort": "8080",
 "Info": "Proxy"
 },
 {
