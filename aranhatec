@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.65",
+  "Version": "1.0.66",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/castk118/atualiza-o/main/aranhatec",
   "Sms": "",
@@ -34,13 +34,13 @@
   ],
   "Networks": [
      {
-        "Name": "Vivo Proxy 01",
+        "Name": "Vivo Proxy 02",
         "FLAG": "vivo",
         "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
         "SNI": "",
         "TlsIP": "",
         "ProxyIP": "104.18.6.41",
-        "ProxyPort": "8080",
+        "ProxyPort": "80",
         "Info": "Proxy"
      },
 {
