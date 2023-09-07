@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.66",
+  "Version": "1.0.67",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/castk118/atualiza-o/main/aranhatec",
   "Sms": "",
@@ -14,7 +14,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "144.22.181.68",
-      "CheckUser": "http://200.98.144.83:5454/checkUser",
+      "CheckUser": "http://150.230.85.238:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
